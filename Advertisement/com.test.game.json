@@ -49,8 +49,8 @@
         {
             "Name": "GameStart",
             "AdNewtorks": [
-                1,
-                2
+                2,
+                1
             ],
             "Enabled": true
         },
